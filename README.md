@@ -54,8 +54,6 @@ Contributions are always welcome! If you have suggestions, fixes, or features to
 If you have any questions, feel free to reach out:
 For questions or collaboration, feel free to connect:
 
-📧 [My Email](hareena.cp@gmail.com)
-
 🔗 [My LinkedIn Profile](https://www.linkedin.com/in/hareena-chowdary-polavaram/) 
 
 💻 [My GitHub Profile](https://github.com/HareenaChowdary)
