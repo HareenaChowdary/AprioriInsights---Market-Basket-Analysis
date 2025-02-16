@@ -50,16 +50,13 @@ pip install pandas numpy matplotlib seaborn mlxtend
 ### 🌱 Contributing
 Contributions are always welcome! If you have suggestions, fixes, or features to add, please fork the repository and create a pull request. You can also open an issue to report bugs or request new features.
 
-### 📞 Contact
-If you have any questions, feel free to reach out:
-For questions or collaboration, feel free to connect:
-- **GitHub**: [My GitHub Profile](https://github.com/HareenaChowdary)
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/hareena-chowdary-polavaram/)
 ## 💌 Contact
 If you have any questions, feel free to reach out:
 For questions or collaboration, feel free to connect:
 📧 [Your Email](hareena.cp@gmail.com)
+
 🔗 [My LinkedIn Profile](https://www.linkedin.com/in/hareena-chowdary-polavaram/) 
+
 💻 [My GitHub Profile](https://github.com/HareenaChowdary)
 
 ---
