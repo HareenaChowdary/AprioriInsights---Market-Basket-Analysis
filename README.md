@@ -42,7 +42,7 @@ pip install pandas numpy matplotlib seaborn mlxtend
    ```
 4. Run the provided notebook to analyze transactions and generate association rules.
 
-## 💜 Results & Insights
+## 📈 Results & Insights
 - Strong association rules between frequently purchased products.
 - Heatmaps depicting high-confidence itemsets.
 - Business-driven insights for improving customer retention and revenue growth.
